@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RMCollins175
-- 👀 I’m interested in frontend development & design mostly and partial to a little bit of data engineering. 
+- 👀 I’m interested in frontend development & design and partial to a little bit of data engineering. 
 - 🌱 I’m continuing to learn about fullstack JavaScript development and UX/UI Design. 
 - 💞️ I have worked and collaborated on react, react-native, python and node projects.
 
