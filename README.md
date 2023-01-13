@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RMCollins175
 - 👀 I’m interested in frontend development & design
-- 🌱 I’m continuing to learn about fullstack JavaScript and UX/UI Design. 
+- 🌱 I’m continuing to learn about fullstack JavaScript and UX/UI Design 
 - 💞️ I have worked and collaborated on react, react-native and python projects
 
 <!---
